@@ -1,6 +1,19 @@
 # scATAC-seq-analysis-notes
 my notes for scATACseq analysis
 
+
+### ATAC-seq QC
+
+#### Fragment length distribution
+
+A blog post by [Xi Chen](https://dbrg77.wordpress.com/2017/02/10/atac-seq-insert-size-plotting/)
+
+>The successful construction of a ATAC library requires a proper pair of Tn5 transposase cutting events at the ends of DNA. In the nucleosome-free open chromatin regions, many molecules of Tn5 can kick in and chop the DNA into small pieces; around nucleosome-occupied regions, Tn5 can only access the linker regions. Therefore, in a normal ATAC-seq library, you should expect to see a sharp peak at the <100 bp region (open chromatin), and a peak at ~200bp region (mono-nucleosome), and other larger peaks (multi-nucleosomes)
+
+https://github.com/GreenleafLab/NucleoATAC/issues/18
+
+>there might be some artifact with how the aligner deals with fragments where the forward read and reverse read are exact reverse complements of each other. I know that Bowtie (1 but not 2) has some issue with those reads.
+
 ### ATAC-seq
 
 >Some may notice that the peaks produced look both like peaks produced from the TF ChIP-seq pipeline as well as the histone ChIP-seq pipeline. This is intentional, as ATAC-seq data looks both like TF data (narrow peaks of signal) as well as histone data (broader regions of openness).
