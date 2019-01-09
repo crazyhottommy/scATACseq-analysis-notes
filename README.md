@@ -4,6 +4,10 @@ my notes for scATACseq analysis
 
 ### ATAC-seq QC
 
+### protocols 
+
+[An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5623106/)
+
 #### Fragment length distribution
 
 A blog post by [Xi Chen](https://dbrg77.wordpress.com/2017/02/10/atac-seq-insert-size-plotting/)
