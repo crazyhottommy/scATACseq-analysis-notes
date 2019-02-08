@@ -46,3 +46,9 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [Comprehensive integration of single cell data](https://www.biorxiv.org/content/early/2018/11/02/460147) integrating scATAC and scRNAseq in the [`seurat`](https://www.satijalab.org/seurat) R package.
 * [Integrative analysis of single cell genomics data by coupled nonnegative matrix factorizations](http://web.stanford.edu/~zduren/CoupledNMF/)
 * [Cicero Predicting the cis-regulatory landscape from scATACseq data](https://cole-trapnell-lab.github.io/cicero-release/)
+
+### integrate scATAC and scRNAseq
+
+* Buenrostro et al., Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation, Cell (2018), https://doi.org/10.1016/j.cell.2018.03.074
+* Duren et al., Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations, PNAS (2018), https://doi.org/10.1073/pnas.1805681115
+
