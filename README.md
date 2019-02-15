@@ -51,4 +51,6 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 
 * Buenrostro et al., Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation, Cell (2018), https://doi.org/10.1016/j.cell.2018.03.074
 * Duren et al., Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations, PNAS (2018), https://doi.org/10.1073/pnas.1805681115
+* [Prospective, brain-wide labeling of neuronal subclasses with enhancer-driven AAVs](https://www.biorxiv.org/content/10.1101/525014v2)
+* [seurat v3 paper](https://www.biorxiv.org/content/10.1101/460147v1)
 
