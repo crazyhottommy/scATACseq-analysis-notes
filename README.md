@@ -54,3 +54,8 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [Prospective, brain-wide labeling of neuronal subclasses with enhancer-driven AAVs](https://www.biorxiv.org/content/10.1101/525014v2)
 * [seurat v3 paper](https://www.biorxiv.org/content/10.1101/460147v1)
 * [Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain](https://www.nature.com/articles/nbt.4038) Jean Fan kindly shared her scripts for the paper at https://github.com/JEFworks/Supplementary-Code/tree/master/snDropSeq_scTHSseq. will need to ask her when I have questions.
+
+### predicting ATAC peak target gene
+
+* [Cicero](https://cole-trapnell-lab.github.io/cicero-release/)
+* [ChIA-Drop: Multiplex chromatin interactions with single-molecule precision](https://www.nature.com/articles/s41586-019-0949-1) by Yijun Ruan at JAX lab. His office is next to my previous postdoc advisor Roel Verhaak's.
