@@ -53,4 +53,4 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * Duren et al., Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations, PNAS (2018), https://doi.org/10.1073/pnas.1805681115
 * [Prospective, brain-wide labeling of neuronal subclasses with enhancer-driven AAVs](https://www.biorxiv.org/content/10.1101/525014v2)
 * [seurat v3 paper](https://www.biorxiv.org/content/10.1101/460147v1)
-
+* [Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain](https://www.nature.com/articles/nbt.4038) Jean Fan kindly shared her scripts for the paper at https://github.com/JEFworks/Supplementary-Code/tree/master/snDropSeq_scTHSseq. will need to ask her when I have questions.
