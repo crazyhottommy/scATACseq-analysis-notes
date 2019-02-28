@@ -42,6 +42,12 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [Identification of Transcription Factor Binding Sites using ATAC-seq](https://www.biorxiv.org/content/early/2018/07/17/362863)  We propose HINT-ATAC, a footprinting method that addresses ATAC- seq specific protocol artifacts
 * [HMMRATAC](https://github.com/LiuLabUB/HMMRATAC) splits a **single** ATAC-seq dataset into nucleosome-free and nucleosome-enriched signals, learns the unique chromatin structure around accessible regions, and then predicts accessible regions across the entire genome. We show that HMMRATAC outperforms the popular peak-calling algorithms on published human and mouse ATAC-seq datasets.
 
+### motif analysis
+
+* [marge](https://marge.netlify.com/)An API for Analysis of Motifs Using HOMER in R:  https://www.biorxiv.org/content/10.1101/249268v1
+* [homerkit](https://github.com/slowkow/homerkit)
+
+
 ### footprint
 * [HINT](https://www.regulatory-genomics.org/) tutorial: https://www.regulatory-genomics.org/hint/tutorial/
 paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2 single cell ATAC tutorial is on the way.
