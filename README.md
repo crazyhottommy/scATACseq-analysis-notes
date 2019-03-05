@@ -41,6 +41,8 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * The Differential ATAC-seq Toolkit [(DAStk)](https://biof-git.colorado.edu/dowelllab/DAStk) is a set of scripts to aid analyzing differential ATAC-Seq data.
 * [Identification of Transcription Factor Binding Sites using ATAC-seq](https://www.biorxiv.org/content/early/2018/07/17/362863)  We propose HINT-ATAC, a footprinting method that addresses ATAC- seq specific protocol artifacts
 * [HMMRATAC](https://github.com/LiuLabUB/HMMRATAC) splits a **single** ATAC-seq dataset into nucleosome-free and nucleosome-enriched signals, learns the unique chromatin structure around accessible regions, and then predicts accessible regions across the entire genome. We show that HMMRATAC outperforms the popular peak-calling algorithms on published human and mouse ATAC-seq datasets.
+* [ChromA](https://github.com/marianogabitto/ChromA): Chromatin Landscape Annotation Tool. 
+ChromA is a probabilistic model to annotate chromatin regions into accessible or inaccessible, open or closed, based on their ATACseq profile. ChromA can process bulk datasets, single-cell or integrate information from a combination of both. Even more, ChromA can integrate information from different replicates or different cellular populations to create a consensus representation of chromatin accessibility.
 
 ### motif analysis
 
