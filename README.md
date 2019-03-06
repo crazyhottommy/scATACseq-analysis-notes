@@ -44,6 +44,18 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [ChromA](https://github.com/marianogabitto/ChromA): Chromatin Landscape Annotation Tool. 
 ChromA is a probabilistic model to annotate chromatin regions into accessible or inaccessible, open or closed, based on their ATACseq profile. ChromA can process bulk datasets, single-cell or integrate information from a combination of both. Even more, ChromA can integrate information from different replicates or different cellular populations to create a consensus representation of chromatin accessibility.
 
+### peak calling
+
+* [MACS2](https://github.com/taoliu/MACS/issues/145)
+
+> --shift -100 --extsize 200 will amplify the 'cutting sites' enrichment from ATAC-seq data. So in the end, the 'peak' is where Tn5 transposase likes to attack. The fact is that, although many information such as the insertion length and the other mate alignment is ignored, such result is still usable. Especially when the short fragment population is extremely dominant, the final output won't be off much.
+
+```bash
+macs2 --nomodel --keepdup all --shift -100 --extsize 200
+macs2 -f BAMPE
+```
+* [generich](https://informatics.fas.harvard.edu/atac-seq-guidelines.html#peak) written by John, previous labmates at Harvard FAS informatics. will take a look!
+
 ### motif analysis
 
 * [marge](https://marge.netlify.com/)An API for Analysis of Motifs Using HOMER in R:  https://www.biorxiv.org/content/10.1101/249268v1
