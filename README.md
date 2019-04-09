@@ -61,6 +61,9 @@ macs2 -f BAMPE
 * [marge](https://marge.netlify.com/)An API for Analysis of Motifs Using HOMER in R:  https://www.biorxiv.org/content/10.1101/249268v1
 * [homerkit](https://github.com/slowkow/homerkit)
 
+### clustering
+
+* [cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data](https://www.nature.com/articles/s41592-019-0367-1) github https://github.com/aertslab/cistopic
 
 ### footprint
 * [HINT](https://www.regulatory-genomics.org/) tutorial: https://www.regulatory-genomics.org/hint/tutorial/
