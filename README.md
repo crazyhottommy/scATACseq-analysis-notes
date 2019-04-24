@@ -83,3 +83,7 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 
 * [Cicero](https://cole-trapnell-lab.github.io/cicero-release/)
 * [ChIA-Drop: Multiplex chromatin interactions with single-molecule precision](https://www.nature.com/articles/s41586-019-0949-1) by Yijun Ruan at JAX lab. His office is next to my previous postdoc advisor Roel Verhaak's.
+
+### pipelines
+
+* [SnapATAC](https://github.com/r3fang/SnapATAC) much faster than `cellranger-atac`.
