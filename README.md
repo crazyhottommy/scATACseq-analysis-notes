@@ -83,6 +83,7 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [Building gene regulatory networks from **single-cell** ATAC-seq and RNA-seq using Linked Self-Organizing Maps](https://www.biorxiv.org/content/early/2018/10/09/438937) github link https://github.com/csjansen/SOMatic
 * [Comprehensive integration of single cell data](https://www.biorxiv.org/content/early/2018/11/02/460147) integrating scATAC and scRNAseq in the [`seurat`](https://www.satijalab.org/seurat) v3 R package.
 * [Integrative analysis of single cell genomics data by coupled nonnegative matrix factorizations](http://web.stanford.edu/~zduren/CoupledNMF/)
+* Multi-Omics Factor Analysis (MOFA) http://bioconductor.org/packages/release/bioc/html/MOFA.html integrate scATAC and scRNAseq?
 
 ### predicting ATAC peak target gene
 
