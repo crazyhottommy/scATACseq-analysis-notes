@@ -74,6 +74,12 @@ macs2 -f BAMPE
 * [HINT](https://www.regulatory-genomics.org/) tutorial: https://www.regulatory-genomics.org/hint/tutorial/
 paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2 single cell ATAC tutorial is on the way.
 
+### piplines
+
+* [scATAC-pro: a comprehensive workbench for single-cell chromatin accessibility sequencing data](https://www.biorxiv.org/content/10.1101/824326v2) https://github.com/wbaopaul/scATAC-pro
+
+
+
 ### integrate scATAC and scRNAseq
 
 * Buenrostro et al., Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation, Cell (2018), https://doi.org/10.1016/j.cell.2018.03.074
