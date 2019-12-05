@@ -73,6 +73,8 @@ macs2 -f BAMPE
 ### footprint
 * [HINT](https://www.regulatory-genomics.org/) tutorial: https://www.regulatory-genomics.org/hint/tutorial/
 paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2 single cell ATAC tutorial is on the way.
+* [seqoutBias](https://guertinlab.github.io/seqOutBias_Vignette/part3.html) remove Tn5 cut bias.
+* [scOpen: chromatin-accessibility estimation of single-cell ATAC data](https://www.biorxiv.org/content/biorxiv/early/2019/12/05/865931.full.pdf) tutorial https://www.regulatory-genomics.org/hint/tutorial-differential-footprints-on-scatac-seq/
 
 ### piplines
 
