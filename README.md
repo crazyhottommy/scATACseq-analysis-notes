@@ -93,6 +93,7 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [Integrative analysis of single cell genomics data by coupled nonnegative matrix factorizations](http://web.stanford.edu/~zduren/CoupledNMF/)
 * Multi-Omics Factor Analysis (MOFA) http://bioconductor.org/packages/release/bioc/html/MOFA.html integrate scATAC and scRNAseq?
 * [Garnett](https://cole-trapnell-lab.github.io/garnett/) automatic annotation of scRNAseq and scATACseq data sets.
+* [Fluent genomics with plyranges and tximeta](https://sa-lee.github.io/fluentGenomics/articles/fluentGenomics.html) integrate bulk RNAseq and ATACseq data using bioconductor packages and using plyranges (dplyr for GRanges)!
 
 ### predicting ATAC peak target gene
 
