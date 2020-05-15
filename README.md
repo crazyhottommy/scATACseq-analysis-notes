@@ -80,9 +80,9 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 ### piplines
 
 * [scATAC-pro: a comprehensive workbench for single-cell chromatin accessibility sequencing data](https://www.biorxiv.org/content/10.1101/824326v2) https://github.com/wbaopaul/scATAC-pro
-* [ArchR : Analysis of Regulatory Chromatin in R](https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1)
+* [ArchR : Analysis of Regulatory Chromatin in R (biorxiv link)](https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1)
 [(github link)](https://github.com/GreenleafLab/ArchR)
-[(Full documentation see here)](https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1)
+[(Full documentation see here)](https://www.archrproject.com/)
 
 ### integrate scATAC and scRNAseq
 
