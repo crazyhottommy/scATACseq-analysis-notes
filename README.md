@@ -79,11 +79,12 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 
 ### piplines
 
+* [MAESTRO](https://github.com/liulab-dfci/MAESTRO) Single-cell Transcriptome and Regulome Analysis Pipeline from Shirley Liu lab.
 * [scATAC-pro: a comprehensive workbench for single-cell chromatin accessibility sequencing data](https://www.biorxiv.org/content/10.1101/824326v2) https://github.com/wbaopaul/scATAC-pro
 * [ArchR : Analysis of Regulatory Chromatin in R (biorxiv link)](https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1)
 [(github link)](https://github.com/GreenleafLab/ArchR)
 [(Full documentation see here)](https://www.archrproject.com/)
-
+* [SnapATAC](https://github.com/r3fang/SnapATAC) much faster than `cellranger-atac`.
 ### integrate scATAC and scRNAseq
 
 * [MOFA+: analysis of matching scRNA-seq and scATAC-seq data](https://raw.githack.com/bioFAM/MOFA2/master/MOFA2/vignettes/SNARE_seq.html)
@@ -103,6 +104,5 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [Cicero](https://cole-trapnell-lab.github.io/cicero-release/)
 * [ChIA-Drop: Multiplex chromatin interactions with single-molecule precision](https://www.nature.com/articles/s41586-019-0949-1) by Yijun Ruan at JAX lab. His office is next to my previous postdoc advisor Roel Verhaak's.
 
-### pipelines
 
-* [SnapATAC](https://github.com/r3fang/SnapATAC) much faster than `cellranger-atac`.
+
