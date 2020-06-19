@@ -31,8 +31,8 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [ATAC-seq Forum](https://sites.google.com/site/atacseqpublic/home?pli=1)  
 * [Single-cell ATAC-Seq](http://cole-trapnell-lab.github.io/projects/sc-atac/) 
 * [A rapid and robust method for single cell chromatin accessibility profiling](https://www.biorxiv.org/content/early/2018/04/27/309831)
-* [Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells](http://www.biorxiv.org/content/early/2016/01/01/035816)  from RNA-seq to DNA accessibility. [tool on github](https://github.com/WeiqiangZhou/BIRD)  
-* [NucleoATAC](https://github.com/GreenleafLab/NucleoATAC):Python package for calling nucleosomes using ATAC-Seq data 
+* [Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells](http://www.biorxiv.org/content/early/2016/01/01/035816) from RNA-seq to DNA accessibility. [tool on github](https://github.com/WeiqiangZhou/BIRD)  
+* [NucleoATAC](https://github.com/GreenleafLab/NucleoATAC): Python package for calling nucleosomes using ATAC-Seq data 
 * [chromVAR: Inferring transcription factor variation from **single-cell** epigenomic data](http://biorxiv.org/content/early/2017/02/21/110346) scATAC-seq
 * [ENCODE ATAC-seq guidelines](https://www.encodeproject.org/data-standards/atac-seq/)
 * [Brockman](https://carldeboer.github.io/brockman.html) is a suite of command line tools and R functions to convert genomics data into DNA k-mer words representing the regions associated with a chromatin mark, and then analyzing these k-mer sets to see how samples differ from each other. This approach is primarily intended for **single cell** genomics data, and was tested most extensively on single cell ATAC-seq data
@@ -77,7 +77,7 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [scOpen: chromatin-accessibility estimation of single-cell ATAC data](https://www.biorxiv.org/content/biorxiv/early/2019/12/05/865931.full.pdf) tutorial https://www.regulatory-genomics.org/hint/tutorial-differential-footprints-on-scatac-seq/
 * [Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal: TOBIAS](https://www.biorxiv.org/content/10.1101/869560v1.full). Very good according to Andrew. https://github.com/loosolab/TOBIAS has all you need for bias correction, differential footprint and plotting. will try for sure!
 
-### piplines
+### pipelines
 
 * [MAESTRO](https://github.com/liulab-dfci/MAESTRO) Single-cell Transcriptome and Regulome Analysis Pipeline from Shirley Liu lab.
 * [scATAC-pro: a comprehensive workbench for single-cell chromatin accessibility sequencing data](https://www.biorxiv.org/content/10.1101/824326v2) https://github.com/wbaopaul/scATAC-pro
