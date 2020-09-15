@@ -4,7 +4,10 @@ my notes for scATACseq analysis
 
 ### paper to read
 
-[Prospective, brain-wide labeling of neuronal subclasses with enhancer-driven AAVs](https://www.biorxiv.org/content/early/2019/01/20/525014?rss=1) Neuroscientists need ever-more specific methods to restrict expression of tools to defined neuronal subpopulations. This amazing study from @AllenInstitute uses scATAC-seq & scRNA-seq to discover enhancers that are even more specific than driver lines.
+
+* [Single-cell transcriptomics in cancer: computational challenges and opportunities](https://www.nature.com/articles/s12276-020-0422-0) by Jean, Kamil and Fan.
+* review [Single-cell ATAC sequencing analysis: From data preprocessing to hypothesis generation](https://www.sciencedirect.com/science/article/pii/S2001037020303019)
+* [Prospective, brain-wide labeling of neuronal subclasses with enhancer-driven AAVs](https://www.biorxiv.org/content/early/2019/01/20/525014?rss=1) Neuroscientists need ever-more specific methods to restrict expression of tools to defined neuronal subpopulations. This amazing study from @AllenInstitute uses scATAC-seq & scRNA-seq to discover enhancers that are even more specific than driver lines.
 
 ### ATAC-seq QC
 
