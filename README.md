@@ -73,6 +73,9 @@ macs2 -f BAMPE
 
 * [cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data](https://www.nature.com/articles/s41592-019-0367-1) github https://github.com/aertslab/cistopic
 
+### copy-number 
+* [Alleloscope](https://github.com/seasoncloud/Alleloscope) is a method for allele-specific copy number estimation that can be applied to single cell DNA and ATAC sequencing data (separately or in combination), allowing for integrative multi-omic analysis of allele-specific copy number and chromatin accessibility for the same cell.
+
 ### footprint
 * [HINT](https://www.regulatory-genomics.org/) tutorial: https://www.regulatory-genomics.org/hint/tutorial/
 paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2 single cell ATAC tutorial is on the way.
