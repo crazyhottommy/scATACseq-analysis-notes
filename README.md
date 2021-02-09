@@ -83,6 +83,10 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [scOpen: chromatin-accessibility estimation of single-cell ATAC data](https://www.biorxiv.org/content/biorxiv/early/2019/12/05/865931.full.pdf) tutorial https://www.regulatory-genomics.org/hint/tutorial-differential-footprints-on-scatac-seq/
 * [Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal: TOBIAS](https://www.biorxiv.org/content/10.1101/869560v1.full). Very good according to Andrew. https://github.com/loosolab/TOBIAS has all you need for bias correction, differential footprint and plotting. will try for sure!
 
+### nucleosome positioning
+
+* [Decoding nucleosome positions with ATAC-seq data at single-cell level](https://www.biorxiv.org/content/10.1101/2021.02.07.430096v1)
+
 ### pipelines
 
 * [MAESTRO](https://github.com/liulab-dfci/MAESTRO) Single-cell Transcriptome and Regulome Analysis Pipeline from Shirley Liu lab.
