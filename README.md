@@ -97,6 +97,7 @@ paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-
 * [SnapATAC](https://github.com/r3fang/SnapATAC) much faster than `cellranger-atac`.
 ### integrate scATAC and scRNAseq
 
+* [SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks](https://twitter.com/seppe_winter/status/1561707575380512768) paper https://www.biorxiv.org/content/10.1101/2022.08.19.504505v1
 * [MOFA+: analysis of matching scRNA-seq and scATAC-seq data](https://raw.githack.com/bioFAM/MOFA2/master/MOFA2/vignettes/SNARE_seq.html)
 * Buenrostro et al., Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation, Cell (2018), https://doi.org/10.1016/j.cell.2018.03.074
 * Duren et al., Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations, PNAS (2018), https://doi.org/10.1073/pnas.1805681115
